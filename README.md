@@ -21,3 +21,5 @@
 ![Screenshot](screenshot.png)
 ![Screenshot](2.png)
 
+## FOR LINUX
+- it is not stable enough, for finding window by pid or by task.
