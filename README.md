@@ -11,4 +11,6 @@
  ```
  github.com/moises-dias/yolo-opencv-detector
  ```
- ![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
+![Screenshot](2.png)
+

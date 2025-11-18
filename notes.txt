@@ -1,0 +1,1026 @@
+Window Tasks with Process Names:
+--------------------------------------------------
+Window: systemd
+Process: systemd (PID: 1)
+Window ID: 0x00000001
+------------------------------
+Window: kthreadd
+Process: kthreadd (PID: 2)
+Window ID: 0x00000002
+------------------------------
+Window: pool_workqueue_release
+Process: pool_workqueue_release (PID: 3)
+Window ID: 0x00000003
+------------------------------
+Window: kworker/R-rcu_gp
+Process: kworker/R-rcu_gp (PID: 4)
+Window ID: 0x00000004
+------------------------------
+Window: kworker/R-sync_wq
+Process: kworker/R-sync_wq (PID: 5)
+Window ID: 0x00000005
+------------------------------
+Window: kworker/R-kvfree_rcu_reclaim
+Process: kworker/R-kvfree_rcu_reclaim (PID: 6)
+Window ID: 0x00000006
+------------------------------
+Window: kworker/R-slub_flushwq
+Process: kworker/R-slub_flushwq (PID: 7)
+Window ID: 0x00000007
+------------------------------
+Window: kworker/R-netns
+Process: kworker/R-netns (PID: 8)
+Window ID: 0x00000008
+------------------------------
+Window: kworker/0:0-cgroup_destroy
+Process: kworker/0:0-cgroup_destroy (PID: 9)
+Window ID: 0x00000009
+------------------------------
+Window: kworker/0:0H-events_highpri
+Process: kworker/0:0H-events_highpri (PID: 11)
+Window ID: 0x0000000b
+------------------------------
+Window: kworker/R-mm_percpu_wq
+Process: kworker/R-mm_percpu_wq (PID: 13)
+Window ID: 0x0000000d
+------------------------------
+Window: rcu_tasks_kthread
+Process: rcu_tasks_kthread (PID: 14)
+Window ID: 0x0000000e
+------------------------------
+Window: rcu_tasks_rude_kthread
+Process: rcu_tasks_rude_kthread (PID: 15)
+Window ID: 0x0000000f
+------------------------------
+Window: rcu_tasks_trace_kthread
+Process: rcu_tasks_trace_kthread (PID: 16)
+Window ID: 0x00000010
+------------------------------
+Window: ksoftirqd/0
+Process: ksoftirqd/0 (PID: 17)
+Window ID: 0x00000011
+------------------------------
+Window: rcu_preempt
+Process: rcu_preempt (PID: 18)
+Window ID: 0x00000012
+------------------------------
+Window: rcu_exp_par_gp_kthread_worker/0
+Process: rcu_exp_par_gp_kthread_worker/0 (PID: 19)
+Window ID: 0x00000013
+------------------------------
+Window: rcu_exp_gp_kthread_worker
+Process: rcu_exp_gp_kthread_worker (PID: 20)
+Window ID: 0x00000014
+------------------------------
+Window: migration/0
+Process: migration/0 (PID: 21)
+Window ID: 0x00000015
+------------------------------
+Window: idle_inject/0
+Process: idle_inject/0 (PID: 22)
+Window ID: 0x00000016
+------------------------------
+Window: cpuhp/0
+Process: cpuhp/0 (PID: 23)
+Window ID: 0x00000017
+------------------------------
+Window: cpuhp/1
+Process: cpuhp/1 (PID: 24)
+Window ID: 0x00000018
+------------------------------
+Window: idle_inject/1
+Process: idle_inject/1 (PID: 25)
+Window ID: 0x00000019
+------------------------------
+Window: migration/1
+Process: migration/1 (PID: 26)
+Window ID: 0x0000001a
+------------------------------
+Window: ksoftirqd/1
+Process: ksoftirqd/1 (PID: 27)
+Window ID: 0x0000001b
+------------------------------
+Window: kworker/1:0-mm_percpu_wq
+Process: kworker/1:0-mm_percpu_wq (PID: 28)
+Window ID: 0x0000001c
+------------------------------
+Window: kworker/1:0H-events_highpri
+Process: kworker/1:0H-events_highpri (PID: 29)
+Window ID: 0x0000001d
+------------------------------
+Window: cpuhp/2
+Process: cpuhp/2 (PID: 30)
+Window ID: 0x0000001e
+------------------------------
+Window: idle_inject/2
+Process: idle_inject/2 (PID: 31)
+Window ID: 0x0000001f
+------------------------------
+Window: migration/2
+Process: migration/2 (PID: 32)
+Window ID: 0x00000020
+------------------------------
+Window: ksoftirqd/2
+Process: ksoftirqd/2 (PID: 33)
+Window ID: 0x00000021
+------------------------------
+Window: kworker/2:0H-events_highpri
+Process: kworker/2:0H-events_highpri (PID: 35)
+Window ID: 0x00000023
+------------------------------
+Window: cpuhp/3
+Process: cpuhp/3 (PID: 36)
+Window ID: 0x00000024
+------------------------------
+Window: idle_inject/3
+Process: idle_inject/3 (PID: 37)
+Window ID: 0x00000025
+------------------------------
+Window: migration/3
+Process: migration/3 (PID: 38)
+Window ID: 0x00000026
+------------------------------
+Window: ksoftirqd/3
+Process: ksoftirqd/3 (PID: 39)
+Window ID: 0x00000027
+------------------------------
+Window: kworker/3:0H-events_highpri
+Process: kworker/3:0H-events_highpri (PID: 41)
+Window ID: 0x00000029
+------------------------------
+Window: kdevtmpfs
+Process: kdevtmpfs (PID: 42)
+Window ID: 0x0000002a
+------------------------------
+Window: kworker/R-inet_frag_wq
+Process: kworker/R-inet_frag_wq (PID: 43)
+Window ID: 0x0000002b
+------------------------------
+Window: kauditd
+Process: kauditd (PID: 44)
+Window ID: 0x0000002c
+------------------------------
+Window: khungtaskd
+Process: khungtaskd (PID: 45)
+Window ID: 0x0000002d
+------------------------------
+Window: oom_reaper
+Process: oom_reaper (PID: 47)
+Window ID: 0x0000002f
+------------------------------
+Window: kworker/R-writeback
+Process: kworker/R-writeback (PID: 49)
+Window ID: 0x00000031
+------------------------------
+Window: kcompactd0
+Process: kcompactd0 (PID: 50)
+Window ID: 0x00000032
+------------------------------
+Window: ksmd
+Process: ksmd (PID: 51)
+Window ID: 0x00000033
+------------------------------
+Window: khugepaged
+Process: khugepaged (PID: 52)
+Window ID: 0x00000034
+------------------------------
+Window: kworker/R-kintegrityd
+Process: kworker/R-kintegrityd (PID: 53)
+Window ID: 0x00000035
+------------------------------
+Window: kworker/R-kblockd
+Process: kworker/R-kblockd (PID: 54)
+Window ID: 0x00000036
+------------------------------
+Window: kworker/R-blkcg_punt_bio
+Process: kworker/R-blkcg_punt_bio (PID: 55)
+Window ID: 0x00000037
+------------------------------
+Window: irq/9-acpi
+Process: irq/9-acpi (PID: 56)
+Window ID: 0x00000038
+------------------------------
+Window: kworker/R-tpm_dev_wq
+Process: kworker/R-tpm_dev_wq (PID: 58)
+Window ID: 0x0000003a
+------------------------------
+Window: kworker/R-ata_sff
+Process: kworker/R-ata_sff (PID: 59)
+Window ID: 0x0000003b
+------------------------------
+Window: kworker/R-md
+Process: kworker/R-md (PID: 60)
+Window ID: 0x0000003c
+------------------------------
+Window: kworker/R-md_bitmap
+Process: kworker/R-md_bitmap (PID: 61)
+Window ID: 0x0000003d
+------------------------------
+Window: kworker/R-edac-poller
+Process: kworker/R-edac-poller (PID: 62)
+Window ID: 0x0000003e
+------------------------------
+Window: kworker/R-devfreq_wq
+Process: kworker/R-devfreq_wq (PID: 63)
+Window ID: 0x0000003f
+------------------------------
+Window: watchdogd
+Process: watchdogd (PID: 64)
+Window ID: 0x00000040
+------------------------------
+Window: kworker/0:1H-kblockd
+Process: kworker/0:1H-kblockd (PID: 65)
+Window ID: 0x00000041
+------------------------------
+Window: irq/24-AMD-Vi
+Process: irq/24-AMD-Vi (PID: 66)
+Window ID: 0x00000042
+------------------------------
+Window: kswapd0
+Process: kswapd0 (PID: 67)
+Window ID: 0x00000043
+------------------------------
+Window: ecryptfs-kthread
+Process: ecryptfs-kthread (PID: 68)
+Window ID: 0x00000044
+------------------------------
+Window: kworker/R-kthrotld
+Process: kworker/R-kthrotld (PID: 69)
+Window ID: 0x00000045
+------------------------------
+Window: kworker/R-acpi_thermal_pm
+Process: kworker/R-acpi_thermal_pm (PID: 72)
+Window ID: 0x00000048
+------------------------------
+Window: kworker/3:1-mm_percpu_wq
+Process: kworker/3:1-mm_percpu_wq (PID: 73)
+Window ID: 0x00000049
+------------------------------
+Window: kworker/u16:3-gfx
+Process: kworker/u16:3-gfx (PID: 74)
+Window ID: 0x0000004a
+------------------------------
+Window: kworker/u16:4-events_unbound
+Process: kworker/u16:4-events_unbound (PID: 75)
+Window ID: 0x0000004b
+------------------------------
+Window: kworker/R-mld
+Process: kworker/R-mld (PID: 77)
+Window ID: 0x0000004d
+------------------------------
+Window: kworker/R-ipv6_addrconf
+Process: kworker/R-ipv6_addrconf (PID: 78)
+Window ID: 0x0000004e
+------------------------------
+Window: kworker/0:3-events
+Process: kworker/0:3-events (PID: 81)
+Window ID: 0x00000051
+------------------------------
+Window: kworker/R-kstrp
+Process: kworker/R-kstrp (PID: 88)
+Window ID: 0x00000058
+------------------------------
+Window: kworker/R-cryptd
+Process: kworker/R-cryptd (PID: 94)
+Window ID: 0x0000005e
+------------------------------
+Window: kworker/R-charger_manager
+Process: kworker/R-charger_manager (PID: 103)
+Window ID: 0x00000067
+------------------------------
+Window: kworker/3:1H-kblockd
+Process: kworker/3:1H-kblockd (PID: 127)
+Window ID: 0x0000007f
+------------------------------
+Window: kworker/1:1H-kblockd
+Process: kworker/1:1H-kblockd (PID: 130)
+Window ID: 0x00000082
+------------------------------
+Window: kworker/2:1H-kblockd
+Process: kworker/2:1H-kblockd (PID: 156)
+Window ID: 0x0000009c
+------------------------------
+Window: scsi_eh_0
+Process: scsi_eh_0 (PID: 171)
+Window ID: 0x000000ab
+------------------------------
+Window: kworker/R-scsi_tmf_0
+Process: kworker/R-scsi_tmf_0 (PID: 172)
+Window ID: 0x000000ac
+------------------------------
+Window: scsi_eh_1
+Process: scsi_eh_1 (PID: 173)
+Window ID: 0x000000ad
+------------------------------
+Window: kworker/R-scsi_tmf_1
+Process: kworker/R-scsi_tmf_1 (PID: 174)
+Window ID: 0x000000ae
+------------------------------
+Window: jbd2/sda2-8
+Process: jbd2/sda2-8 (PID: 231)
+Window ID: 0x000000e7
+------------------------------
+Window: kworker/R-ext4-rsv-conversion
+Process: kworker/R-ext4-rsv-conversion (PID: 232)
+Window ID: 0x000000e8
+------------------------------
+Window: systemd-journald
+Process: systemd-journald (PID: 283)
+Window ID: 0x0000011b
+------------------------------
+Window: systemd-udevd
+Process: systemd-udevd (PID: 359)
+Window ID: 0x00000167
+------------------------------
+Window: psimon
+Process: psimon (PID: 379)
+Window ID: 0x0000017b
+------------------------------
+Window: kworker/R-asus_wireless_workqueue
+Process: kworker/R-asus_wireless_workqueue (PID: 430)
+Window ID: 0x000001ae
+------------------------------
+Window: kworker/R-cfg80211
+Process: kworker/R-cfg80211 (PID: 483)
+Window ID: 0x000001e3
+------------------------------
+Window: kworker/R-led_workqueue
+Process: kworker/R-led_workqueue (PID: 583)
+Window ID: 0x00000247
+------------------------------
+Window: systemd-resolved
+Process: systemd-resolved (PID: 635)
+Window ID: 0x0000027b
+------------------------------
+Window: kworker/u16:5-events_power_efficient
+Process: kworker/u16:5-events_power_efficient (PID: 640)
+Window ID: 0x00000280
+------------------------------
+Window: kworker/u16:7-flush-8:0
+Process: kworker/u16:7-flush-8:0 (PID: 653)
+Window ID: 0x0000028d
+------------------------------
+Window: kworker/u16:8-ext4-rsv-conversion
+Process: kworker/u16:8-ext4-rsv-conversion (PID: 654)
+Window ID: 0x0000028e
+------------------------------
+Window: systemd-timesyncd
+Process: systemd-timesyncd (PID: 661)
+Window ID: 0x00000295
+------------------------------
+Window: kworker/2:3-events
+Process: kworker/2:3-events (PID: 679)
+Window ID: 0x000002a7
+------------------------------
+Window: kworker/R-amdgpu-reset-dev
+Process: kworker/R-amdgpu-reset-dev (PID: 802)
+Window ID: 0x00000322
+------------------------------
+Window: kworker/R-ttm
+Process: kworker/R-ttm (PID: 807)
+Window ID: 0x00000327
+------------------------------
+Window: kworker/R-amdgpu_dm_hpd_rx_offload_wq
+Process: kworker/R-amdgpu_dm_hpd_rx_offload_wq (PID: 808)
+Window ID: 0x00000328
+------------------------------
+Window: kworker/R-amdgpu_dm_hpd_rx_offload_wq
+Process: kworker/R-amdgpu_dm_hpd_rx_offload_wq (PID: 809)
+Window ID: 0x00000329
+------------------------------
+Window: kworker/R-amdgpu_dm_hpd_rx_offload_wq
+Process: kworker/R-amdgpu_dm_hpd_rx_offload_wq (PID: 810)
+Window ID: 0x0000032a
+------------------------------
+Window: kworker/R-dm_vblank_control_workqueue
+Process: kworker/R-dm_vblank_control_workqueue (PID: 811)
+Window ID: 0x0000032b
+------------------------------
+Window: card1-crtc0
+Process: card1-crtc0 (PID: 812)
+Window ID: 0x0000032c
+------------------------------
+Window: card1-crtc1
+Process: card1-crtc1 (PID: 813)
+Window ID: 0x0000032d
+------------------------------
+Window: card1-crtc2
+Process: card1-crtc2 (PID: 814)
+Window ID: 0x0000032e
+------------------------------
+Window: kworker/R-gfx
+Process: kworker/R-gfx (PID: 815)
+Window ID: 0x0000032f
+------------------------------
+Window: kworker/R-comp_1.0.0
+Process: kworker/R-comp_1.0.0 (PID: 816)
+Window ID: 0x00000330
+------------------------------
+Window: kworker/R-comp_1.1.0
+Process: kworker/R-comp_1.1.0 (PID: 817)
+Window ID: 0x00000331
+------------------------------
+Window: kworker/R-comp_1.2.0
+Process: kworker/R-comp_1.2.0 (PID: 818)
+Window ID: 0x00000332
+------------------------------
+Window: kworker/R-comp_1.3.0
+Process: kworker/R-comp_1.3.0 (PID: 819)
+Window ID: 0x00000333
+------------------------------
+Window: kworker/R-comp_1.0.1
+Process: kworker/R-comp_1.0.1 (PID: 820)
+Window ID: 0x00000334
+------------------------------
+Window: kworker/R-comp_1.1.1
+Process: kworker/R-comp_1.1.1 (PID: 821)
+Window ID: 0x00000335
+------------------------------
+Window: kworker/R-comp_1.2.1
+Process: kworker/R-comp_1.2.1 (PID: 822)
+Window ID: 0x00000336
+------------------------------
+Window: kworker/R-comp_1.3.1
+Process: kworker/R-comp_1.3.1 (PID: 823)
+Window ID: 0x00000337
+------------------------------
+Window: kworker/R-sdma0
+Process: kworker/R-sdma0 (PID: 824)
+Window ID: 0x00000338
+------------------------------
+Window: kworker/R-sdma1
+Process: kworker/R-sdma1 (PID: 825)
+Window ID: 0x00000339
+------------------------------
+Window: kworker/R-uvd
+Process: kworker/R-uvd (PID: 826)
+Window ID: 0x0000033a
+------------------------------
+Window: kworker/R-vce0
+Process: kworker/R-vce0 (PID: 827)
+Window ID: 0x0000033b
+------------------------------
+Window: kworker/R-vce1
+Process: kworker/R-vce1 (PID: 828)
+Window ID: 0x0000033c
+------------------------------
+Window: kworker/R-amdgpu-reset-dev
+Process: kworker/R-amdgpu-reset-dev (PID: 833)
+Window ID: 0x00000341
+------------------------------
+Window: kworker/R-ttm
+Process: kworker/R-ttm (PID: 854)
+Window ID: 0x00000356
+------------------------------
+Window: card0-crtc0
+Process: card0-crtc0 (PID: 855)
+Window ID: 0x00000357
+------------------------------
+Window: card0-crtc1
+Process: card0-crtc1 (PID: 856)
+Window ID: 0x00000358
+------------------------------
+Window: card0-crtc2
+Process: card0-crtc2 (PID: 857)
+Window ID: 0x00000359
+------------------------------
+Window: card0-crtc3
+Process: card0-crtc3 (PID: 858)
+Window ID: 0x0000035a
+------------------------------
+Window: card0-crtc4
+Process: card0-crtc4 (PID: 859)
+Window ID: 0x0000035b
+------------------------------
+Window: kworker/R-gfx
+Process: kworker/R-gfx (PID: 860)
+Window ID: 0x0000035c
+------------------------------
+Window: kworker/R-comp_1.0.0
+Process: kworker/R-comp_1.0.0 (PID: 861)
+Window ID: 0x0000035d
+------------------------------
+Window: kworker/R-comp_1.0.1
+Process: kworker/R-comp_1.0.1 (PID: 862)
+Window ID: 0x0000035e
+------------------------------
+Window: kworker/R-comp_1.0.2
+Process: kworker/R-comp_1.0.2 (PID: 863)
+Window ID: 0x0000035f
+------------------------------
+Window: kworker/R-comp_1.0.3
+Process: kworker/R-comp_1.0.3 (PID: 864)
+Window ID: 0x00000360
+------------------------------
+Window: kworker/R-comp_1.0.4
+Process: kworker/R-comp_1.0.4 (PID: 865)
+Window ID: 0x00000361
+------------------------------
+Window: kworker/R-comp_1.0.5
+Process: kworker/R-comp_1.0.5 (PID: 866)
+Window ID: 0x00000362
+------------------------------
+Window: kworker/R-comp_1.0.6
+Process: kworker/R-comp_1.0.6 (PID: 867)
+Window ID: 0x00000363
+------------------------------
+Window: kworker/R-comp_1.0.7
+Process: kworker/R-comp_1.0.7 (PID: 868)
+Window ID: 0x00000364
+------------------------------
+Window: kworker/R-sdma0
+Process: kworker/R-sdma0 (PID: 869)
+Window ID: 0x00000365
+------------------------------
+Window: kworker/R-sdma1
+Process: kworker/R-sdma1 (PID: 870)
+Window ID: 0x00000366
+------------------------------
+Window: kworker/R-uvd
+Process: kworker/R-uvd (PID: 871)
+Window ID: 0x00000367
+------------------------------
+Window: kworker/R-uvd_enc0
+Process: kworker/R-uvd_enc0 (PID: 872)
+Window ID: 0x00000368
+------------------------------
+Window: kworker/R-uvd_enc1
+Process: kworker/R-uvd_enc1 (PID: 873)
+Window ID: 0x00000369
+------------------------------
+Window: kworker/R-vce0
+Process: kworker/R-vce0 (PID: 874)
+Window ID: 0x0000036a
+------------------------------
+Window: kworker/R-vce1
+Process: kworker/R-vce1 (PID: 875)
+Window ID: 0x0000036b
+------------------------------
+Window: kworker/R-vce2
+Process: kworker/R-vce2 (PID: 876)
+Window ID: 0x0000036c
+------------------------------
+Window: accounts-daemon
+Process: accounts-daemon (PID: 944)
+Window ID: 0x000003b0
+------------------------------
+Window: avahi-daemon
+Process: avahi-daemon (PID: 947)
+Window ID: 0x000003b3
+------------------------------
+Window: bluetoothd
+Process: bluetoothd (PID: 948)
+Window ID: 0x000003b4
+------------------------------
+Window: cron
+Process: cron (PID: 949)
+Window ID: 0x000003b5
+------------------------------
+Window: dbus-daemon
+Process: dbus-daemon (PID: 950)
+Window ID: 0x000003b6
+------------------------------
+Window: polkitd
+Process: polkitd (PID: 956)
+Window ID: 0x000003bc
+------------------------------
+Window: power-profiles-daemon
+Process: power-profiles-daemon (PID: 960)
+Window ID: 0x000003c0
+------------------------------
+Window: smartd
+Process: smartd (PID: 972)
+Window ID: 0x000003cc
+------------------------------
+Window: snapd
+Process: snapd (PID: 988)
+Window ID: 0x000003dc
+------------------------------
+Window: switcheroo-control
+Process: switcheroo-control (PID: 992)
+Window ID: 0x000003e0
+------------------------------
+Window: systemd-logind
+Process: systemd-logind (PID: 1003)
+Window ID: 0x000003eb
+------------------------------
+Window: udisksd
+Process: udisksd (PID: 1023)
+Window ID: 0x000003ff
+------------------------------
+Window: avahi-daemon
+Process: avahi-daemon (PID: 1067)
+Window ID: 0x0000042b
+------------------------------
+Window: rsyslogd
+Process: rsyslogd (PID: 1088)
+Window ID: 0x00000440
+------------------------------
+Window: NetworkManager
+Process: NetworkManager (PID: 1092)
+Window ID: 0x00000444
+------------------------------
+Window: wpa_supplicant
+Process: wpa_supplicant (PID: 1095)
+Window ID: 0x00000447
+------------------------------
+Window: ModemManager
+Process: ModemManager (PID: 1166)
+Window ID: 0x0000048e
+------------------------------
+Window: cupsd
+Process: cupsd (PID: 1287)
+Window ID: 0x00000507
+------------------------------
+Window: unattended-upgr
+Process: unattended-upgr (PID: 1290)
+Window ID: 0x0000050a
+------------------------------
+Window: sddm
+Process: sddm (PID: 1329)
+Window ID: 0x00000531
+------------------------------
+Window: Xorg
+Process: Xorg (PID: 1350)
+Window ID: 0x00000546
+------------------------------
+Window: psimon
+Process: psimon (PID: 1420)
+Window ID: 0x0000058c
+------------------------------
+Window: rtkit-daemon
+Process: rtkit-daemon (PID: 1467)
+Window ID: 0x000005bb
+------------------------------
+Window: krfcommd
+Process: krfcommd (PID: 1502)
+Window ID: 0x000005de
+------------------------------
+Window: upowerd
+Process: upowerd (PID: 1513)
+Window ID: 0x000005e9
+------------------------------
+Window: cups-browsed
+Process: cups-browsed (PID: 1533)
+Window ID: 0x000005fd
+------------------------------
+Window: kerneloops
+Process: kerneloops (PID: 1535)
+Window ID: 0x000005ff
+------------------------------
+Window: kerneloops
+Process: kerneloops (PID: 1538)
+Window ID: 0x00000602
+------------------------------
+Window: sddm-helper
+Process: sddm-helper (PID: 1556)
+Window ID: 0x00000614
+------------------------------
+Window: systemd
+Process: systemd (PID: 1561)
+Window ID: 0x00000619
+------------------------------
+Window: kworker/u17:5-ttm
+Process: kworker/u17:5-ttm (PID: 1562)
+Window ID: 0x0000061a
+------------------------------
+Window: kworker/u17:6-ttm
+Process: kworker/u17:6-ttm (PID: 1563)
+Window ID: 0x0000061b
+------------------------------
+Window: (sd-pam)
+Process: (sd-pam) (PID: 1572)
+Window ID: 0x00000624
+------------------------------
+Window: pipewire
+Process: pipewire (PID: 1581)
+Window ID: 0x0000062d
+------------------------------
+Window: pipewire
+Process: pipewire (PID: 1582)
+Window ID: 0x0000062e
+------------------------------
+Window: wireplumber
+Process: wireplumber (PID: 1585)
+Window ID: 0x00000631
+------------------------------
+Window: pipewire-pulse
+Process: pipewire-pulse (PID: 1586)
+Window ID: 0x00000632
+------------------------------
+Window: dbus-daemon
+Process: dbus-daemon (PID: 1588)
+Window ID: 0x00000634
+------------------------------
+Window: kwalletd5
+Process: kwalletd5 (PID: 1609)
+Window ID: 0x00000649
+------------------------------
+Window: startplasma-x11
+Process: startplasma-x11 (PID: 1610)
+Window ID: 0x0000064a
+------------------------------
+Window: xdg-permission-store
+Process: xdg-permission-store (PID: 1656)
+Window ID: 0x00000678
+------------------------------
+Window: ssh-agent
+Process: ssh-agent (PID: 1687)
+Window ID: 0x00000697
+------------------------------
+Window: fcitx5
+Process: fcitx5 (PID: 1698)
+Window ID: 0x000006a2
+------------------------------
+Window: xdg-desktop-portal
+Process: xdg-desktop-portal (PID: 1734)
+Window ID: 0x000006c6
+------------------------------
+Window: xdg-document-portal
+Process: xdg-document-portal (PID: 1746)
+Window ID: 0x000006d2
+------------------------------
+Window: gvfsd
+Process: gvfsd (PID: 1760)
+Window ID: 0x000006e0
+------------------------------
+Window: fusermount3
+Process: fusermount3 (PID: 1768)
+Window ID: 0x000006e8
+------------------------------
+Window: xdg-desktop-portal-gtk
+Process: xdg-desktop-portal-gtk (PID: 1772)
+Window ID: 0x000006ec
+------------------------------
+Window: ksmserver
+Process: ksmserver (PID: 1795)
+Window ID: 0x00000703
+------------------------------
+Window: kded5
+Process: kded5 (PID: 1797)
+Window ID: 0x00000705
+------------------------------
+Window: kwin_x11
+Process: kwin_x11 (PID: 1798)
+Window ID: 0x00000706
+------------------------------
+Window: at-spi-bus-launcher
+Process: at-spi-bus-launcher (PID: 1801)
+Window ID: 0x00000709
+------------------------------
+Window: dbus-daemon
+Process: dbus-daemon (PID: 1810)
+Window ID: 0x00000712
+------------------------------
+Window: at-spi2-registryd
+Process: at-spi2-registryd (PID: 1817)
+Window ID: 0x00000719
+------------------------------
+Window: kglobalaccel5
+Process: kglobalaccel5 (PID: 1861)
+Window ID: 0x00000745
+------------------------------
+Window: plasmashell
+Process: plasmashell (PID: 1881)
+Window ID: 0x00000759
+------------------------------
+Window: mozc_server
+Process: mozc_server (PID: 1883)
+Window ID: 0x0000075b
+------------------------------
+Window: dconf-service
+Process: dconf-service (PID: 1893)
+Window ID: 0x00000765
+------------------------------
+Window: kactivitymanagerd
+Process: kactivitymanagerd (PID: 1913)
+Window ID: 0x00000779
+------------------------------
+Window: gmenudbusmenuproxy
+Process: gmenudbusmenuproxy (PID: 1918)
+Window ID: 0x0000077e
+------------------------------
+Window: polkit-kde-authentication-agent-1
+Process: polkit-kde-authentication-agent-1 (PID: 1919)
+Window ID: 0x0000077f
+------------------------------
+Window: org_kde_powerdevil
+Process: org_kde_powerdevil (PID: 1920)
+Window ID: 0x00000780
+------------------------------
+Window: xdg-desktop-portal-kde
+Process: xdg-desktop-portal-kde (PID: 1921)
+Window ID: 0x00000781
+------------------------------
+Window: xembedsniproxy
+Process: xembedsniproxy (PID: 1922)
+Window ID: 0x00000782
+------------------------------
+Window: kdeconnectd
+Process: kdeconnectd (PID: 2055)
+Window ID: 0x00000807
+------------------------------
+Window: agent
+Process: agent (PID: 2069)
+Window ID: 0x00000815
+------------------------------
+Window: kscreen_backend_launcher
+Process: kscreen_backend_launcher (PID: 2076)
+Window ID: 0x0000081c
+------------------------------
+Window: kaccess
+Process: kaccess (PID: 2097)
+Window ID: 0x00000831
+------------------------------
+Window: DiscoverNotifier
+Process: DiscoverNotifier (PID: 2119)
+Window ID: 0x00000847
+------------------------------
+Window: xsettingsd
+Process: xsettingsd (PID: 2191)
+Window ID: 0x0000088f
+------------------------------
+Window: konsole
+Process: konsole (PID: 2243)
+Window ID: 0x000008c3
+------------------------------
+Window: zsh
+Process: zsh (PID: 2323)
+Window ID: 0x00000913
+------------------------------
+Window: dolphin
+Process: dolphin (PID: 3280)
+Window ID: 0x00000cd0
+------------------------------
+Window: bwrap
+Process: bwrap (PID: 3453)
+Window ID: 0x00000d7d
+------------------------------
+Window: flatpak-session-helper
+Process: flatpak-session-helper (PID: 3457)
+Window ID: 0x00000d81
+------------------------------
+Window: p11-kit-server
+Process: p11-kit-server (PID: 3462)
+Window ID: 0x00000d86
+------------------------------
+Window: bwrap
+Process: bwrap (PID: 3465)
+Window ID: 0x00000d89
+------------------------------
+Window: xdg-dbus-proxy
+Process: xdg-dbus-proxy (PID: 3466)
+Window ID: 0x00000d8a
+------------------------------
+Window: bwrap
+Process: bwrap (PID: 3472)
+Window ID: 0x00000d90
+------------------------------
+Window: bash
+Process: bash (PID: 3473)
+Window ID: 0x00000d91
+------------------------------
+Window: bash
+Process: bash (PID: 3573)
+Window ID: 0x00000df5
+------------------------------
+Window: PetStarClient.exe
+Process: PetStarClient.exe (PID: 3626)
+Window ID: 0x00000e2a
+------------------------------
+Window: wineserver
+Process: wineserver (PID: 3628)
+Window ID: 0x00000e2c
+------------------------------
+Window: services.exe
+Process: services.exe (PID: 3634)
+Window ID: 0x00000e32
+------------------------------
+Window: winedevice.exe
+Process: winedevice.exe (PID: 3637)
+Window ID: 0x00000e35
+------------------------------
+Window: plugplay.exe
+Process: plugplay.exe (PID: 3646)
+Window ID: 0x00000e3e
+------------------------------
+Window: svchost.exe
+Process: svchost.exe (PID: 3653)
+Window ID: 0x00000e45
+------------------------------
+Window: explorer.exe
+Process: explorer.exe (PID: 3654)
+Window ID: 0x00000e46
+------------------------------
+Window: winedevice.exe
+Process: winedevice.exe (PID: 3661)
+Window ID: 0x00000e4d
+------------------------------
+Window: rpcss.exe
+Process: rpcss.exe (PID: 3707)
+Window ID: 0x00000e7b
+------------------------------
+Window: brave-browser-s
+Process: brave-browser-s (PID: 3843)
+Window ID: 0x00000f03
+------------------------------
+Window: cat
+Process: cat (PID: 3848)
+Window ID: 0x00000f08
+------------------------------
+Window: cat
+Process: cat (PID: 3849)
+Window ID: 0x00000f09
+------------------------------
+Window: brave
+Process: brave (PID: 3850)
+Window ID: 0x00000f0a
+------------------------------
+Window: chrome_crashpad_handler
+Process: chrome_crashpad_handler (PID: 3852)
+Window ID: 0x00000f0c
+------------------------------
+Window: chrome_crashpad_handler
+Process: chrome_crashpad_handler (PID: 3854)
+Window ID: 0x00000f0e
+------------------------------
+Window: brave
+Process: brave (PID: 3860)
+Window ID: 0x00000f14
+------------------------------
+Window: brave
+Process: brave (PID: 3861)
+Window ID: 0x00000f15
+------------------------------
+Window: brave
+Process: brave (PID: 3863)
+Window ID: 0x00000f17
+------------------------------
+Window: brave
+Process: brave (PID: 3897)
+Window ID: 0x00000f39
+------------------------------
+Window: brave
+Process: brave (PID: 3900)
+Window ID: 0x00000f3c
+------------------------------
+Window: brave
+Process: brave (PID: 3912)
+Window ID: 0x00000f48
+------------------------------
+Window: brave
+Process: brave (PID: 4054)
+Window ID: 0x00000fd6
+------------------------------
+Window: brave
+Process: brave (PID: 4571)
+Window ID: 0x000011db
+------------------------------
+Window: brave
+Process: brave (PID: 4580)
+Window ID: 0x000011e4
+------------------------------
+Window: kworker/3:0-cgroup_destroy
+Process: kworker/3:0-cgroup_destroy (PID: 5263)
+Window ID: 0x0000148f
+------------------------------
+Window: kworker/1:1-events
+Process: kworker/1:1-events (PID: 5539)
+Window ID: 0x000015a3
+------------------------------
+Window: kworker/2:0-cgroup_destroy
+Process: kworker/2:0-cgroup_destroy (PID: 6516)
+Window ID: 0x00001974
+------------------------------
+Window: kworker/u17:0
+Process: kworker/u17:0 (PID: 6683)
+Window ID: 0x00001a1b
+------------------------------
+Window: brave
+Process: brave (PID: 6815)
+Window ID: 0x00001a9f
+------------------------------
+Window: brave
+Process: brave (PID: 6821)
+Window ID: 0x00001aa5
+------------------------------
+Window: brave
+Process: brave (PID: 6841)
+Window ID: 0x00001ab9
+------------------------------
+Window: kworker/u16:0
+Process: kworker/u16:0 (PID: 6909)
+Window ID: 0x00001afd
+------------------------------
+Window: kworker/3:2
+Process: kworker/3:2 (PID: 7075)
+Window ID: 0x00001ba3
+------------------------------
+Window: kworker/2:1
+Process: kworker/2:1 (PID: 7124)
+Window ID: 0x00001bd4
+------------------------------
+Window: python3
+Process: python3 (PID: 7127)
+Window ID: 0x00001bd7
+------------------------------
