@@ -14,7 +14,7 @@
  ```
  python .\FINAL-RUN-WITH-ADMIN.py  
  ```
- fork it from this, so it works with pet star
+ fork from this, tweak it little bit so it works with pet star
  ```
  github.com/moises-dias/yolo-opencv-detector
  ```
